@@ -1,6 +1,0 @@
-br/com/danielbgg/SpringBatchMongoPocApplication.class
-br/com/danielbgg/util/CsvGenerator.class
-br/com/danielbgg/model/Payment.class
-br/com/danielbgg/config/LoggingStepExecutionListener.class
-br/com/danielbgg/config/RangePartitioner.class
-br/com/danielbgg/config/BatchConfig.class
