@@ -1,0 +1,6 @@
+/Users/daniel.goncalves/MongoDB/git/mdb-spring-batch/mdb-spring-batch/src/main/java/br/com/danielbgg/SpringBatchMongoPocApplication.java
+/Users/daniel.goncalves/MongoDB/git/mdb-spring-batch/mdb-spring-batch/src/main/java/br/com/danielbgg/config/BatchConfig.java
+/Users/daniel.goncalves/MongoDB/git/mdb-spring-batch/mdb-spring-batch/src/main/java/br/com/danielbgg/config/LoggingStepExecutionListener.java
+/Users/daniel.goncalves/MongoDB/git/mdb-spring-batch/mdb-spring-batch/src/main/java/br/com/danielbgg/config/RangePartitioner.java
+/Users/daniel.goncalves/MongoDB/git/mdb-spring-batch/mdb-spring-batch/src/main/java/br/com/danielbgg/model/Payment.java
+/Users/daniel.goncalves/MongoDB/git/mdb-spring-batch/mdb-spring-batch/src/main/java/br/com/danielbgg/util/CsvGenerator.java

@@ -1,0 +1,4 @@
+externalId;payerId;payeeId;amount;currency;paymentDate
+P4;C004;L004;400.00;BRL;2025-01-04
+P5;C005;L005;500.50;BRL;2025-01-05
+P6;C006;L006;600.75;BRL;2025-01-06
